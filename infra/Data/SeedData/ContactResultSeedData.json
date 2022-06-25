@@ -1,0 +1,32 @@
+[
+     {"Name": "Phone Not Reachable", "PersonType": "candidate"},
+     {"Name": "Phone out of network", "PersonType": "candidate"},
+     {"Name": "Phone unanswered", "PersonType": "candidate"}, 
+     {"Name": "Phone answered by someone else", "PersonType": "candidate"}, 
+     {"Name": "Wrong phone number.", "PersonType": "candidate"}, 
+     {"Name": "Not interested in the job", "PersonType": "candidate"}, 
+     {"Name": "Rude behavior", "PersonType": "candidate"},
+     {"Name": "Negative approach, does not sound interested", "PersonType": "candidate"},
+     {"Name": "Wants salary increased", "PersonType": "candidate"}, 
+     {"Name": "Cannot join as PP not in his possession", "PersonType": "candidate"},
+     {"Name": "Service Charges not acceptable", "PersonType": "candidate"}, 
+     {"Name": "Not interested due to unknown reasons", "PersonType": "candidate"},
+     {"Name": "Medically Unfit", "PersonType": "candidate"}, 
+     {"Name": "Interested in Offer", "PersonType": "candidate"}, 
+     {"Name": "Offer Accepted", "PersonType": "candidate"}, 
+     {"Name": "Unable to connect video conference application", "PersonType": "candidate"},
+     {"Name": "Video Conference Tool Test Succeeded", "PersonType": "candidate"}, 
+     {"Name": "Video Conference Interiew concluded", "PersonType": "candidate"},
+
+     {"Name": "Phone Not Reachable", "PersonType": "official"},
+     {"Name": "Phone out of network", "PersonType": "official"},
+     {"Name": "Phone unanswered", "PersonType": "official"}, 
+     {"Name": "Not Interested in the project", "PersonType": "official"}, 
+     {"Name": "Asked to reach him later", "PersonType": "official"}, 
+     {"Name": "Positive - In progress", "PersonType": "official"}, 
+     {"Name": "Negative response, Rude behavior", "PersonType": "official"},
+     {"Name": "Project still under conclusion, hopefully will conclude", "PersonType": "official"}
+     
+
+
+]

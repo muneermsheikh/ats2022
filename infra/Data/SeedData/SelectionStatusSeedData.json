@@ -1,0 +1,12 @@
+[
+     {"Status": "Selected", "DecisionType" : "Selection"}, 
+     {"Status": "Job withdrawn by client", "DecisionType" : "Withdrawn"}, 
+     {"Status": "Job withdrawn by client", "DecisionType" : "Withdrawn"},  
+     {"Status": "Rejected - Profile does not match", "DecisionType" : "Rejection"}, 
+     {"Status": "Rejected - experience not relevant", "DecisionType" : "Rejection"}, 
+     {"Status": "Rejected - experience not sufficient", "DecisionType" : "Rejection"},
+     {"Status": "Rejected - documents suspect", "DecisionType" : "Rejection"}, 
+     {"Status": "Rejected - salary expectations very high", "DecisionType" : "Rejection"}, 
+     {"Status": "Rejected - overage", "DecisionType" : "Rejection"},
+     {"Status": "Rejected - No reasons known", "DecisionType" : "Rejection"} 
+]

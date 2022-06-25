@@ -1,0 +1,8 @@
+[
+     { "OrderItemId": 5, "CandidateId": 6, "ReferredOn": "2020-01-01T00:10:10", "RefStatusId": 0, "Charges": 25000},
+     { "OrderItemId": 5, "CandidateId": 7, "ReferredOn": "2020-02-02T00:10:10", "RefStatusId": 0, "Charges": 35000},
+     { "OrderItemId": 5, "CandidateId": 8, "ReferredOn": "2020-03-03T00:10:10", "RefStatusId": 0, "Charges": 15000},
+     { "OrderItemId": 6, "CandidateId": 9, "ReferredOn": "2020-03-01T00:10:10", "RefStatusId": 0, "Charges": 16000},
+     { "OrderItemId": 6, "CandidateId": 8, "ReferredOn": "2020-04-02T00:10:10", "RefStatusId": 0, "Charges": 17000}     
+]
+

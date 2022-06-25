@@ -1,0 +1,52 @@
+[
+     {"FirstName": "Abdul Mateen", "SecondName":"Abdul Waheed", "FamilyName": "Khan","KnownAs": "Mateen", 
+          "PlaceOfBirth": "Lucknow", "AadharNo": "293824334560", "Position": "HR Executive",
+          "Gender": "M", "DateOfBirth": "1985-12-15T10:00:10", "DateOfJoining": "2018-01-15T10:00:00",
+          "PpNo": "A3094534", "Nationality": "Indian", "Email": "mateen@gmail.com", "DOB": "1986-11-12T02:22:22", 
+          "Qualifications": [{"QualificationId": 1, "isMain": 0}, {"QualificationId": 2, "isMain": 1}],
+          "DOJ": "2015-11-11T22:11:11", "Department": "Production", "Status":1, 
+          "HrSkills": [
+               {"CategoryId": 1, "IndustryId": 1, "skillLevel": 0}, 
+               {"CategoryId": 2, "IndustryId": 1, "skillLevel": 2}
+          ],
+          "Add":"25, 32 raman raghav road", 
+          "Address2":"opposite national bank",
+          "City": "Bangalore",
+          "Country": "India"
+     },
+     {"FirstName": "Sanjay", "SecondName":"Rajaram", "FamilyName": "Patil","KnownAs": "Sanjay", 
+          "PlaceOfBirth": "Kolhapur", "AadharNo": "233852334560", "Position": "Document Controller-Admin",
+          "Gender": "M", "DateOfBirth": "1985-12-16T10:00:10", "DateOfJoining": "2019-02-15T00:00:00",
+          "PpNo": "A3114534", "Nationality": "Indian", "Email": "sanjayoatil@gmail.com", "DOB": "1976-11-12T02:22:22", 
+          "Qualifications": [{"QualificationId": 1, "isMain": 0}, {"QualificationId": 2, "isMain": 1}],
+          "DOJ": "2016-12-11T22:11:11", "Department": "Production", "Status": 1,
+          "HrSkills": [
+               {"CategoryId": 3, "IndustryId": 2, "skillLevel": 1}, 
+               {"CategoryId": 2, "IndustryId": 1, "skillLevel": 2}
+          ],
+          "Add":"12/56 BD Chawls", 
+          "Address2":"worli",
+          "City": "Mumbai",
+          "Country": "India"
+     },
+     {"FirstName": "Shahid", "SecondName":"Mohammed Yusuf", "FamilyName": "Khan","KnownAs": "Mateen", 
+          "PlaceOfBirth": "Patna", "AadharNo": "293824032560", "Position": "Administration Manager",
+          "Gender": "M", "DateOfBirth": "1990-12-15T10:11:11", "DateOfJoining": "2018-01-25T11:00:00",
+          "PpNo": "A3004534", "Nationality": "Indian", "Email": "shahid@gmail.com", "DOB": "1989-11-12T02:22:22", 
+          "Qualifications": [{"QualificationId": 1, "isMain": 0}, {"QualificationId": 2, "isMain": 1}],
+          "DOJ": "2015-12-21T22:11:11", "Department": "Production", "Status": 1,
+          "HrSkills": [
+               {"CategoryId": 3, "IndustryId": 2, "skillLevel": 1}, 
+               {"CategoryId": 4, "IndustryId": 1, "skillLevel": 2}
+          ],
+          "otherSkill": [
+               {"skillDataId": 1, "skillLevel": 1, "isMain": 0}, 
+               {"skillDataId": 2, "skillLevel": 1, "isMain": 2}
+          ],
+          "Add":"POlot No.39485, jhumritalaiyya", 
+          "Address2":"opposite national bank",
+          "City": "Chennai",
+          "Country": "India"
+     }
+]
+

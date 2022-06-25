@@ -1,0 +1,22 @@
+[
+     {"StageId": 200, "StatusName": "Selected", "NextStageId": 300, "WorkingDaysReqdForNextStage": 2, "ProcessName": "Selection"},
+     {"StageId": 300, "StatusName": "Offer Letter Accepted", "NextStageId": 400, "WorkingDaysReqdForNextStage": 8, "ProcessName": "Offer Acceptance"},
+     {"StageId": 400, "StatusName": "Referred for medical tests", "NextStageId": 500, "WorkingDaysReqdForNextStage": 2, "ProcessName": "Medical Referral"},
+     {"StageId": 500, "StatusName": "Medically Fit", "NextStageId": 1000,"WorkingDaysReqdForNextStage": 8, "ProcessName": "Declared Medically Fit"},
+     {"StageId": 600, "StatusName": "Medically UnFit", "NextStageId": 10000, "ProcessName": "Declared Medically Unfit"},
+     {"StageId": 1000, "StatusName": "Visa Documents Preapred", "NextStageId": 1100, "WorkingDaysReqdForNextStage": 3, "ProcessName": "Visa Documents preparation"},
+     {"StageId": 1100, "StatusName": "Visa Documents Submitted", "NextStageId": 1300, "WorkingDaysReqdForNextStage": 2, "ProcessName": "Visa Documents submission"},
+     {"StageId": 1150, "StatusName": "Visa Query Received", "NextStageId": 1300, "WorkingDaysReqdForNextStage": 3, "ProcessName": "Visa query"},
+     {"StageId": 1250, "StatusName": "Visa Denied", "NextStageId": 10000, "ProcessName": "Visa Denied"},
+     {"StageId": 1300, "StatusName": "Visa Issued", "NextStageId": 2000, "WorkingDaysReqdForNextStage": 2, "ProcessName": "Visa Issued"},
+     {"StageId": 2000, "StatusName": "Emigration Docs Lodged Online", "NextStageId": 2200, "WorkingDaysReqdForNextStage": 2, "ProcessName": "Emigration Docs Lodged Online"},
+     {"StageId": 2050, "StatusName": "Emigration Query Received", "NextStageId": 2200, "WorkingDaysReqdForNextStage": 2, "ProcessName": "Emigration Query"},
+     {"StageId": 2200, "StatusName": "Emigration Docs submitted", "NextStageId": 2300, "WorkingDaysReqdForNextStage": 3, "ProcessName": "Emigration Docs submitted"},
+     {"StageId": 2250, "StatusName": "Emigration Denied", "NextStageId": 10000, "ProcessName": "Emigration Denied"},
+     {"StageId": 2300, "StatusName": "Emigration Granted", "NextStageId": 3000, "WorkingDaysReqdForNextStage": 8, "ProcessName": "Emigration Granted"},
+     {"StageId": 3000, "StatusName": "Travel ticket booked", "NextStageId": 3200, "ProcessName": "Travel Ticket booking"},
+     {"StageId": 3050, "StatusName": "Travel Canceled", "NextStageId": 10000, "ProcessName": "Travel Canceled"},
+     {"StageId": 3200, "StatusName": "Traveled", "NextStageId": 10000, "WorkingDaysReqdForNextStage": 2, "ProcessName": "Traveled"},
+     {"StageId": 3300, "StatusName": "Arrival acknowledged by Client", "NextStageId": 10000, "ProcessName": "Arrival acknowledgement by client"},
+     {"StageId": 10000, "StatusName": "Concluded", "NextStageId": 0, "ProcessName": "Concluded"}
+]

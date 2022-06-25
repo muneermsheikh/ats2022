@@ -1,0 +1,30 @@
+[
+    {"CategoryId": 0, "CategoryName": "Standard Questions", 
+        "AssessmentQBankItems": 
+        [
+            {"QNo": 1, "AssessmentParameter": "Qualification", 
+                "Question": "Qualification relevant to the role", "maxPoints": 10}, 
+            {"QNo": 2, "AssessmentParameter": "Experience", 
+                "Question": "Has min experience in relevant role", "maxPoints": 10}, 
+            {"QNo": 3, "AssessmentParameter": "Certification", 
+                "Question": "Possesses certifications relating to the role", "maxPoints": 10}, 
+            {"QNo": 4, "AssessmentParameter": "Training", 
+                "Question": "Undergone relevant training from recognized Institutions", "maxPoints": 10}, 
+            {"QNo": 5, "AssessmentParameter": "Leadership", 
+                "Question": "Proven track record of leadership capabilities and managing crisis situations", "maxPoints": 10}, 
+            {"QNo": 6, "AssessmentParameter": "Problem Resolution Capabilities", 
+                "Question": "Has Sciencific approach to problem analyses", "maxPoints": 10}, 
+            {"QNo": 7, "AssessmentParameter": "Teamwork", 
+                "Question": "Can the candidate get along well with his subordinates, colleagues and seniors with a view to getting the job done", "maxPoints": 10}, 
+            {"QNo": 8, "AssessmentParameter": "Communication", 
+                "Question": "English communication - written and oral, ability to easily understand questions and respond convincingly", "maxPoints": 10}, 
+            {"QNo": 9, "AssessmentParameter": "Sincerity", 
+                "Question": "Is the candidate sincere in his career, and likely to complete the minimum contract period? Is he greedy, and likely to shift jobs for better emoluments?  What is his track record of changing jobs in last 5 years?", "maxPoints": 10}, 
+            {"QNo": 10,"AssessmentParameter": "Value to the Orgn", 
+                "Question": "Will the candidate add value to the Orgnization by delivering all that is required of him, as also be creative in delivering values over and beyond what is expected of him", "maxPoints": 10}, 
+            {"QNo": 11,"AssessmentParameter": "Overall", 
+                "Question": "What is the overall opinion of the candidate", "maxPoints": 10}
+        ]
+    }
+ ]
+ 

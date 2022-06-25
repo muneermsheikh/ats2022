@@ -1,0 +1,18 @@
+[
+     {"Name": "Contract Review - by Operations Mgr"},
+     {"Name": "Order Registration - by Doc Controller Admin"},
+     {"Name": "Assign Order Requirements to HR Dept - by Doc Controller Admin"},
+     {"Name": "Order Assessment Questions Designing - by HR Sup"},
+     {"Name": "Assign Order Requirements to HR Exe - by HR Sup"},
+     {"Name": "Assign CV Review to HR Supervisor"},
+     {"Name": "Assign CV Review to HR Manager"},
+     {"Name": "Forward CV to client - by Doc Controller Admin"},
+     {"Name": "Selections Followup with Client - by Doc Controller Admin"},
+     {"Name": "Selection Rejection registrations - by Doc Controller Admin"},
+     {"Name": "Medical Test mobilization - by Med Exec"},
+     {"Name": "Visa Docs compilation - KSA, by Visa Exec"},
+     {"Name": "Visa Docs compilation - non KSA, by Visa Exec"}, 
+     {"Name": "Emigration Docs application - by Emig Exe"}, 
+     {"Name": "Ticket booking, by Ticketing Exec"},
+     {"Name": "Order Edited advise"}
+]

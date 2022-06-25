@@ -1,0 +1,13 @@
+[
+     {"SrNo": 1, "ReviewParameter": "Salary Offered Feasible", "IsMandatoryTrue": true},
+     {"SrNo": 2, "ReviewParameter": "Technically Feasible", "IsMandatoryTrue": true},
+     {"SrNo": 3, "ReviewParameter": "Commercially Feasible"},
+     {"SrNo": 4, "ReviewParameter": "Logistically Feasible", "IsMandatoryTrue": true},
+     {"SrNo": 5, "ReviewParameter": "Visa Available", "IsMandatoryTrue": true},
+     {"SrNo": 6, "ReviewParameter": "Documentations will be available", "IsMandatoryTrue": true},
+     {"SrNo": 7, "ReviewParameter": "Emigrate registered"},
+     {"SrNo": 8, "ReviewParameter": "Historical Data avaialble"},
+     {"SrNo": 9, "ReviewParameter": "Service Charges in INR", "IsMandatoryTrue": true},
+     {"SrNo": 10, "ReviewParameter": "Fee from client"},
+     {"SrNo": 11, "ReviewParameter": "Fee from client Currency"}
+]

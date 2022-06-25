@@ -1,0 +1,27 @@
+[
+	{"CustomerId": 1, "Gender": "M", "Title": "Mr.", "OfficialName": "Rajesh Pujari", "Designation": "Personal Manager",
+	    "PhoneNo": "0203452345", "Mobile": "9858593845", "Email": "personal@gmail.com", "IsValid": true},
+	{"CustomerId": 1, "Gender": "M", "Title": "Mr.", "OfficialName": "Mohammed Nooruddin", "Designation": "HR Officer",
+	    "PhoneNo": "3452345", "Mobile": "913453345", "Email": "nuruddin@saudigulf.qa", "IsValid": true},
+	{"CustomerId": 2, "Gender": "M", "Title": "Mr.", "OfficialName": "Abdullah Zain", "Designation": "HR Officer",
+	    "PhoneNo": "8392384435", "Mobile": "9134544334", "Email": "zain@sbg.com", "IsValid": true},
+	{"CustomerId": 3, "Gender": "M", "Title": "Mr.", "OfficialName": "Hussain Zahrani", "Designation": "HR Manager",
+	    "PhoneNo": "83922335", "Mobile": "913434334", "Email": "zahrani@sbg.com", "IsValid": true},
+	{"CustomerId": 3, "Gender": "M", "Title": "Mr.", "OfficialName": "Vasant Patel", "Designation": "Works Manager",
+	    "PhoneNo": "126375089", "Mobile": "93444112845", "Email": "admin@bicl.com", "IsValid": true},
+	{"CustomerId": 4, "Gender": "M", "Title": "Mr.", "OfficialName": "Parvez Khan", "Designation": "Production Manager",
+	    "PhoneNo": "839212334", "Mobile": "93842123", "Email": "production@bicl.com", "IsValid": true},
+	{"CustomerId": 4, "Gender": "M", "Title": "Mr.", "OfficialName": "Mohammed AlTuwaijri", "Designation": "Personal Manager",
+	    "PhoneNo": "02134144", "Mobile": "9834949445", "Email": "tuwaijri@tuwaijri.com", "IsValid": true},
+	{"CustomerId": 5, "Gender": "M", "Title": "Mr.", "OfficialName": "Abdul Shaikh", "Designation": "HR Officer",
+	    "PhoneNo": "23412235", "Mobile": "93844544334", "Email": "abdul@lucknow.com", "IsValid": true},
+	{"CustomerId": 5, "Gender": "M", "Title": "Mr.", "OfficialName": "Salim Khan", "Designation": "HR Manager",
+	    "PhoneNo": "20987335", "Mobile": "9223424", "Email": "salim@sbg.com", "IsValid": true},
+	{"CustomerId": 6, "Gender": "M", "Title": "Mr.", "OfficialName": "Abdul Majeed", "Designation": "Commercial Officer",
+	    "PhoneNo": "3263759", "Mobile": "923412845", "Email": "majee@bicl.com", "IsValid": true},
+	{"CustomerId": 7, "Gender": "M", "Title": "Mr.", "OfficialName": "Rahil Shaikh", "Designation": "HR Officer",
+	    "PhoneNo": "8323424", "Mobile": "933222123", "Email": "rahiln@prince.com", "IsValid": true},
+	{"CustomerId": 8, "Gender": "M", "Title": "Mr.", "OfficialName": "Abdul Rauf", "Designation": "Personal Officer",
+	    "PhoneNo": "6375089", "Mobile": "983445", "Email": "rauf@shaheen.com", "IsValid": true}
+	 
+]

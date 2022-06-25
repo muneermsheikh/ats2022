@@ -1,0 +1,86 @@
+[
+    {
+        "CreatedOn": "2022-09-02",
+        "CustomerType": "customer",
+        "CustomerName": "Reliance Industries Limited",
+        "KnownAs": "Reliance Inds",
+        "Add": "12, bawakaar bhavan",
+        "Add2": "Nariman Point, V.S. Road",
+        "City": "Mumbai", "Pin": "400020", "State": "Maharashtra",
+        "CustomerIndustries": [{"IndustryId": 1}, {"IndustryId":2}, {"IndustryId": 3}]
+    },
+    {
+        "CreatedOn": "2022-09-02",
+        "CustomerType": "customer",
+        "CustomerName": "Saudi Gulf Heavy Industries Limited",
+        "KnownAs": "Saudi Gulf",
+        "Add": "2, Saudi Gulf Center",
+        "Add2": "Makkah Road",
+        "City": "Doha", "Pin": "38593", "Country": "Qatar",
+        "CustomerIndustries": [{"IndustryId": 4}, {"IndustryId":3}]
+    },
+    {
+        "CreatedOn": "2022-09-02",
+        "CustomerType": "customer",
+        "CustomerName": "Saudi Binladen Group",
+        "KnownAs": "Saudi Binladen",
+        "Add": "K8, Makkah Road",
+        "Add2": "PO Box 958",
+        "City": "Jeddah", "Pin": "31542",
+        "Country": "Saudi Arabia",
+        "CustomerIndustries": [{"IndustryId": 1}, {"IndustryId":2}, {"IndustryId": 3}]
+    },
+    {
+        "CreatedOn": "2022-09-02",
+        "CustomerType": "customer",
+        "CustomerName": "Binladen Industrial Co Ltd",
+        "KnownAs": "BICL",
+        "Add": "phase 2, industrial sector",
+        "Add2": "",
+        "City": "Jeddah", "Pin": "31542", "Country": "Saudi Arabia",
+        "CustomerIndustries": [{"IndustryId": 2}, {"IndustryId":5}]
+    },
+    {
+        "CreatedOn": "2022-09-02",
+        "CustomerType": "customer",
+        "CustomerName": "Tuwaijri Invetment Corporation",
+        "KnownAs": "Tuwaijri",
+        "Add": "PO Box 1030405",
+        "Add2": "Industrial Phase",
+        "City": "Riyadh", "Pin": "31542", "Country":"Saudi Arabia",
+        "CustomerIndustries": [{"IndustryId": 2}, {"IndustryId":1}, {"IndustryId": 5}]
+    },
+    {
+        "CreatedOn": "2022-09-02",
+        "CustomerType": "associate",
+        "CustomerName": "Lucknow Manpower Services",
+        "KnownAs": "Lucknow Manpower",
+        "Add": "Lucknow Terrrace Center",
+        "Add2": "Abdullh Zafar Road",
+        "City": "Lucknow", "Pin": "221542", "State": "Uttar Pradesh",
+        "AgencySpecialties": [{"ProfessionId": 1, "IndustryId": 2}, {"ProfessionId":2, "IndustryId": 3}, 
+            {"ProfessionId": 5, "IndustryId": 4}]
+    },
+    {
+        "CreatedOn": "2022-09-02",
+        "CustomerType": "associate",
+        "CustomerName": "Prince Services",
+        "KnownAs": "Prince",
+        "Add": "Prince Building basement",
+        "Add2": "Gemini Enclave",
+        "City": "Chennai", "Pin": "70034842", "State": "Tamil Nadu",
+        "AgencySpecialties": [{"ProfessionId": 3, "IndustryId": 2}, {"ProfessionId":4, "IndustryId": 3}, 
+            {"ProfessionId": 1, "IndustryId": 5}]
+    },
+    {
+        "CreatedOn": "2022-09-02",
+        "CustomerType": "associate",
+        "CustomerName": "Shaheen International Manpower",
+        "KnownAs": "Shaheen",
+        "Add": "B2, 2nd floor",
+        "Add2": "Shaheen Towers Enclave",
+        "City": "Mumbai", "Pin": "400102", "State":"Maharashtra",
+        "AgencySpecialties": [{"ProfessionId": 3, "IndustryId": 2}, {"ProfessionId":4, "IndustryId": 3}, 
+            {"ProfessionId": 1, "IndustryId": 5}]
+    }
+]

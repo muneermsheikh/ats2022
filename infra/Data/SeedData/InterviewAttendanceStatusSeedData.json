@@ -1,0 +1,9 @@
+[
+     {"Status": "Will attend interview in person"},
+     {"Status": "Will attend interview on phone"},
+     {"Status": "Will attend interview on video conference"},
+     {"Status": "Not interested"},
+     {"Status": "Will attend if transportation by train reimbursed"},
+     {"Status": "Will attend if transportation by air reimbursed"},
+     {"Status": "Attended"}
+]

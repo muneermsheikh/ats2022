@@ -1,0 +1,41 @@
+[
+    {
+        "ApplicationNo": 10100,
+        "CompanyId": 2,
+        "Person_FirstName": "Lisa Anderson",
+        "Person_UserName": "Lisa",
+        "Person_Gender": "female",
+        "Person_DOB": "1956-07-22",
+        "Person_KnownAs": "Lisa",
+        "Person_AadharNo": "123451234512",
+        "Person_Email": "",
+
+        "Created": "2020-06-24",
+        "LastActive": "2020-06-21",
+        "Introduction": "Sunt esse aliqua ullamco in incididunt consequat commodo. Nisi ad esse elit ipsum commodo fugiat est ad. Incididunt nostrud incididunt nostrud sit excepteur occaecat.\r\n",
+        "Interests": "Sit sit incididunt proident velit.",
+        "City": "Greenbush",
+        "UserProfessions": [
+            {"ProfessionId": 2, "IndustryId": 2, "IsMain": true}
+        ],
+        "UserPassports": [
+            {"PassportNo": "A2345235", "IssuedOn": "2010-08-22", "Validity": "2020-01-01", "IsValid": true}
+        ],
+        "Addresses": [
+            {
+                "Add" : "Sunt esse aliqua ullamco in incididunt consequat",
+                "StreetAdd" : "Dolor anim cupidatat occaecat aliquip",
+                "City" : "Greenbush",
+                "Pin": "ND39934",
+                "State": "Marisiana",
+                "Country": "Martinique",
+                "IsMain": true
+            }
+        ],
+        "UserQualifications": [
+            {"QualificationId": 2, "IsMain": true},
+            {"QualificationId": 4, "IsMain": false},
+            {"QualificationId": 5, "IsMain": false}
+        ]
+    }
+]

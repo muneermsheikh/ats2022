@@ -1,0 +1,19 @@
+[
+     {"Status": "Selected", "Sequence": 100, "NextDeployStageSequence": 300},
+     {"Status": "Document Certification Initiated", "Sequence": 200, "NextDeployStageSequence": 300},
+     {"Status": "Refer for Medical Tests", "Sequence": 300, "NextDeployStageSequence": 400},
+     {"Status": "Medically Fit", "Sequence": 400, "NextDeployStageSequence": 600},
+     {"Status": "Medically Unfit", "Sequence": 500, "NextDeployStageSequence": 5000},
+     {"Status": "Visa Documents submitted", "Sequence": 600, "NextDeployStageSequence": 700},
+     {"Status": "Visa Issued", "Sequence": 700, "NextDeployStageSequence": 900 },
+     {"Status": "Visa Rejected", "Sequence": 800, "NextDeployStageSequence": 5000},
+     {"Status": "Emigration application lodged", "Sequence": 900, "NextDeployStageSequence": 1000},
+     {"Status": "Emigration Documents lodged", "Sequence": 1000, "NextDeployStageSequence": 1100},
+     {"Status": "Emigration Cleared", "Sequence": 1100, "NextDeployStageSequence": 1300},
+     {"Status": "Emigration Denied", "Sequence": 1200, "NextDeployStageSequence": 5000},
+     {"Status": "Ticket booked", "Sequence": 1300, "NextDeployStageSequence": 1500},
+     {"Status": "Only Processing - Documents couriered to candidate", "Sequence": 1400, "NextDeployStageSequence": 5000},
+     {"Status": "Traveled", "Sequence": 1500, "NextDeployStageSequence": 5000},
+     {"Status": "Arrival Acknowledged by Client", "Sequence": 1600, "NextDeployStageSequence": 5000},
+     {"Status": "Concluded", "Sequence": 5000, "NextDeployStageSequence": 0}
+]

@@ -1,0 +1,138 @@
+[
+    {  
+        "OrderDate": "2020-10-10T10:00:00", "CustomerId": 3, "OrderRef": "telephonic message", 
+        "SalesmanId": 1,  "CustomerOfficialForLogistics": 6, "customerOfficialForHR": 7, "OrderNo": 1000,
+        "CustomerOfficialForAccounts": 72, "CompleteBy": "2021-01-01T10:00:00", "Country": "Saudi Arabia", 
+        "CityOfWorking": "Jeddah", "AssignedId": 1,
+        "OrderItems": 
+        [
+            {
+                "SrNo": 1, "CategoryId": 1, "SourceFrom": "India", "Quantity": 15, "MinCVs": 30, "MaxCVs": 60,
+                "Ecnr": false, "RequireAssess": false, "HrExecId": 2, "HrSupId": 2, "HrmId": 1, "AssignedId": null, 
+                "Charges": 25000,
+                "JobDescription" : {"JobDescInBrief": "job desc one", 
+                    "QualificationDesired": "Qualification desired order 1000", 
+                    "ExpDesiredMin" : 2, "ExpDesiredMax": 5, 
+                    "MinAge": 25, "MaxAge": 52},
+                "Remuneration": {"WorkHours": 8, "SalaryCurrency": "SAR", "SalaryMin": 1200, 
+                    "SalaryMax": 1500, "ContractPeriodInMonths": 24, 
+                    "HousingProvidedFree": true, "HousingAllowance": 0, "HousingNotProvided": false, 
+                    "FoodProvidedFree": true, "FoodAllowance": 0, "FoodNotProvided": false,
+                    "TransportProvidedFree": true,"TransportAllowance": 0, "TransportNotProvided": false, 
+                    "OtherAllowance": 0, "LeavePerYearInDays": 28, "LeaveAirfareEntitlementAfterMonths": 24}
+            },
+            {
+                "SrNo": 2, "CategoryId": 2, "SourceFrom": "India", "Quantity": 5, "MinCVs": 15,"MaxCVs": 30, 
+                "Ecnr": false, "RequireAssess": false, "HrExecId": 3, "HrSupId": 1, "HrmId": 1, "AssignedId": null, 
+                "Charges": 25500,
+                "JobDescription": {"JobDescInBrief": "job desc two", 
+                    "QualificationDesired": "Qualification desired two ordr 1000", 
+                    "ExpDesiredMin" : 2, "ExpDesiredMax": 5, "MinAge": 25, "MaxAge": 52},  
+                "Remuneration": {"WorkHours": 8, "SalaryCurrency": "SAR", "SalaryMin": 1200, 
+                    "SalaryMax": 1500, "ContractPeriodInMonths": 24, 
+                    "HousingProvidedFree": true, "HousingAllowance": 0, "HousingNotProvided": false,
+                    "FoodProvidedFree": true, "FoodAllowance": 0, "FoodNotProvided": false,
+                    "TransportProvidedFree": true, "TransportAllowance": 0, 
+                    "OtherAllowance": 0, "LeavePerYearInDays": 28, "Remueration_LeaveAirfareEntitlementAfterMonths": 24}
+            }
+        ]
+    },
+    {  
+        "OrderDate": "2020-11-11T10:00:00", "CustomerId": 4, "OrderRef": "telehonic message", 
+        "SalesmanId": 1,  "CustomerOfficialForLogistics": 8, "customerOfficialForHR": 8, 
+        "customerOfficialForAccounts": null, "CompleteBy": "2021-01-01T11:11:11", "Country": "Saudi Arabia", 
+        "CityOfWorking": "Dammam", "OrderNo": 1004, "AssignedId": 1,
+        "OrderItems": 
+        [
+            {
+                "SrNo": 1, "CategoryId": 2, "SourceFrom": "India", "Quantity": 5, "MinCVs": 15, "MaxCVs": 20,
+                "Ecnr": false, "RequireAssess": false, "HrExecId": 1, "HrSupId": 2, "HrmId": 3, "AssignedId": null, 
+                "Charges": 35000,
+                "JobDescription": {"JobDescInBrief": "job desc two A order 1004", 
+                    "QualificationDesired": "Qualification desired two A", 
+                    "ExpDesiredMin" : 3, "ExpDesiredMax": 4, "MinAge": 22, "MaxAge":32},  
+                "Remuneration": {"WorkHours": 8, "SalaryCurrency": "SAR", "SalaryMin": 1100, "SalaryMax": 1200, 
+                    "ContractPeriodInMonths": 24, "HousingProvidedFree": true, "HousingAllowance": 0, "HousingNotProvided":false,
+                    "FoodProvidedFree": false, "FoodAllowance": 400, "FoodNotProvided": false,
+                    "TransportProvidedFree": true, "TransportNotProvided":false,"TransportAllowance": 0, 
+                    "OtherAllowance": 200, "LeavePerYearInDays": 28, "Remueration_LeaveAirfareEntitlementAfterMonths": 12}
+            },
+            {
+                "SrNo": 2, "CategoryId": 3, "SourceFrom": "India", "Quantity": 4, "MinCVs": 8,"MaxCVs": 12, 
+                "Ecnr": true, "RequireAssess": false, "HrExecId": 3, "HrSupId": 1, "HrmId": 1, "AssignedId": null, "Charges": 45500, 
+                "JobDescription": {"JobDescInBrief": "job desc two B", 
+                    "QualificationDesired": "Qualification desired two B order 1004", 
+                    "ExpDesiredMin" : 2, "ExpDesiredMax": 5, "MinAge": 25, "MaxAge": 52},  
+                "Remuneration": {"WorkHours": 8,"SalaryCurrency": "SAR", "SalaryMin": 2200, 
+                "SalaryMax": 2500, "ContractPeriodInMonths": 24, 
+                    "HousingProvidedFree": true, "HousingAllowance": 0, "HousingNotProvided": false,
+                    "FoodProvidedFree": true, "FoodAllowance": 0, "FoodNotProvided": false, 
+                    "TransportProvidedFree": true, "TransportAllowance": 0, "TransportNotProvided":false,
+                    "OtherAllowance": 0, "LeavePerYearInDays": 28, "Remueration_LeaveAirfareEntitlementAfterMonths": 24}
+            }
+        ]
+    },
+    {  
+        "OrderDate": "2020-10-12T10:00:00", "CustomerId": 5, "OrderRef": "telehonic message", 
+        "SalesmanId": 2,  "CustomerOfficialForLogistics": 9, "customerOfficialForHR": 10, 
+        "customerOfficialForAccounts": null, "CompleteBy": "2020-11-01T00:10:10", "Country": "Saudi Arabia", 
+        "CityOfWorking": "Dammam", "OrderNo": 1002, "AssignedId":1,
+        "OrderItems": 
+        [
+            {
+                "SrNo": 1, "CategoryId": 4, "SourceFrom": "India", "Quantity": 1, "MinCVs": 3, "MaxCVs": 6,"Ecnr": false, 
+                "RequireAssess": false, "HrExecId": 2, "HrSupId": 2, "HrmId": 1, "AssignedId": null, "Charges": 25500, 
+                "JobDescription": {"JobDescInBrief": "job desc one", "QualificationDesired": "Qualification desired one order 1002", 
+                    "ExpDesiredMin" : 2, "ExpDesiredMax": 5, "MinAge": 25, "MaxAge": 52},  
+                "Remuneration": {"WorkHours": 8,"SalaryCurrency": "SAR", "SalaryMin": 1200, "SalaryMax": 1500, 
+                    "ContractPeriodInMonths": 24, "HousingProvidedFree": true, "HousingAllowance": 0, "HousingNotProvided":false,
+                        "FoodProvidedFree": true, "FoodAllowance": 0, "FoodNotProvided":false, 
+                        "TransportProvidedFree": true, "TransportNotProvided":false,"TransportAllowance": 0, 
+                        "OtherAllowance": 0, "LeavePerYearInDays": 28, "Remueration_LeaveAirfareEntitlementAfterMonths": 24}
+            },
+            {
+                "SrNo": 2, "CategoryId": 2, "SourceFrom": "India", "Quantity": 5, "MinCVs": 15,"MaxCVs": 30, "Ecnr": false, 
+                "RequireAssess": false, "HrExecId": 3, "HrSupId": 1, "HrmId": 1, "AssignedId": null, "Charges": 15000,
+                "JobDescription": {"JobDescInBrief": "job desc three A", "QualificationDesired": "Qualification desired three A ordr 1002", 
+                    "ExpDesiredMin" : 2, "ExpDesiredMax": 5, "MinAge": 25, "MaxAge": 52},  
+                "Remuneration": {"WorkHours": 8, "SalaryCurrency": "SAR", "SalaryMin": 1200, "SalaryMax": 1500, 
+                    "ContractPeriodInMonths": 24, "HousingProvidedFree": true, "HousingAllowance": 0, "HousingNotProvided":false,
+                        "FoodProvidedFree": true, "FoodAllowance": 0, "FoodNotProvided": false,
+                        "TransportProvidedFree": true, "TransportAllowance": 0, "TransportNotProvided":false,
+                        "OtherAllowance": 0, "LeavePerYearInDays": 28, "Remueration_LeaveAirfareEntitlementAfterMonths": 24}
+            }
+        ]
+    },
+    {  
+        "OrderDate": "2019-02-25T01:00:12",  "CustomerId": 6, "OrderRef": "telehonic message", 
+        "SalesmanId": 1,  "CustomerOfficialForLogistics": 11, "customerOfficialForHR": 11, 
+        "customerOfficialForAccounts": 2, "CompleteBy": "2021-11-12T12:00:00", "Country": "Saudi Arabia", 
+        "CityOfWorking": "Jeddah", "OrderNo": 1003,
+        "OrderItems": 
+        [
+            {
+                "SrNo": 1, "CategoryId": 1, "SourceFrom": "India", "Quantity": 15, "MinCVs": 30, "MaxCVs": 60, "Ecnr": false, 
+                "RequireAssess": false, "HrExecId": 2, "HrSupId": 2, "HrmId": 1, "AssignedId": null, "Charges": 0,
+                "JobDescription": {"JobDescInBrief": "job desc three B", 
+                    "QualificationDesired": "Qualification desired THREE b order 1003", 
+                    "ExpDesiredMin" : 2, "ExpDesiredMax": 5, "MinAge": 25, "MaxAge": 52},  
+                "Remuneration": { "WorkHours": 8, "SalaryCurrency": "SAR", "SalaryMin": 1200, 
+                        "SalaryMax": 1500, "ContractPeriodInMonths": 24, 
+                        "HousingProvidedFree": true, "HousingAllowance": 0, "HousingNotProvided":false,
+                        "FoodProvidedFree": true, "FoodAllowance": 0, "FoodNotProvided":false,
+                        "TransportProvidedFree": true, "TransportAllowance": 0, "TransportNotProvided":false,
+                        "OtherAllowance": 0, "LeavePerYearInDays": 28, "Remueration_LeaveAirfareEntitlementAfterMonths": 24}
+            },
+            {
+                "SrNo": 2, "CategoryId": 2, "SourceFrom": "India", "Quantity": 5, "MinCVs": 15,"MaxCVs": 30, "Ecnr": false, 
+                "RequireAssess": false, "HrExecId": 3, "HrSupId": 1, "HrmId": 1, "AssignedId": null, "Charges": 12500,
+                "JobDescription": {"JobDescInBrief": "job desc three B", "QualificationDesired": "Qualification desired three B order 1003", 
+                        "ExpDesiredMin" : 2, "ExpDesiredMax": 5, "MinAge": 25, "MaxAge": 52},  
+                "Remuneration": {"WorkHours": 8, "SalaryCurrency": "SAR", "SalaryMin": 1200, "SalaryMax": 1500, "ContractPeriodInMonths": 24, "HousingProvidedFree": true, "HousingAllowance": 0, "HousingNotProvided":false, 
+                    "FoodProvidedFree": true, "FoodAllowance": 0, "FoodNotProvided":false,
+                    "TransportAllowance": 0, "TransportProvidedFree":true,"TransportNotProvided":false,
+                    "OtherAllowance": 0, "LeavePerYearInDays": 28, "Remueration_LeaveAirfareEntitlementAfterMonths": 24}
+            }
+        ]
+    }
+]

@@ -1,0 +1,49 @@
+[
+     {"MessageType": "AcknowledgementToCandidate", "SrNo": 1, "Mode": "mail",
+          "LineText": "We are pleased to acknowledge receipt of your application, which is registered in our systems under application number given above."
+     }, 
+     {"MessageType": "AcknowledgementToCandidate", "SrNo": 2, "Mode": "mail",
+          "LineText": "<br><br>Currently, we have following openings that match your profession as mentioned in your profile.  We are reviewing your profile in detail to ascertain your suitability to client requirements and hope to revert to you soon."
+     },
+     {"MessageType": "AcknowledgementToCandidate", "SrNo": 3, "Mode": "mail",
+          "LineText": "<tableofrelevantopenings>"
+     },
+     {"MessageType": "AcknowledgementToCandidate", "SrNo": 4, "Mode": "mail",
+          "LineText": "This is an auto-generated message, and you are encouraged to contact our H.R. department for any queries."
+     },
+     {"MessageType": "AcknowledgementToCandidate", "SrNo": 1, "Mode": "sms",
+          "LineText": "Thank you for submitting your application to us, which is registered with us under above Serial No. We will revert to you with suitable openings after reviewing your profile in detail.<br><br>Regards/HR Dept"
+     },
+     {"MessageType": "SelectionAdviseToCandidate", "SrNo": 1, "Mode": "mail",
+          "LineText": "Pleased to advise you have been selected as follows:"
+     }, 
+     {"MessageType": "SelectionAdviseToCandidate", "SrNo": 2, "Mode": "mail",
+          "LineText": "<tableofselectiondetails>"
+     },
+     {"MessageType": "SelectionAdviseToCandidate", "SrNo": 3, "Mode": "mail",
+          "LineText": "<br><br>Please visit our H.R. department to complete your selection and departure formalities.<br><br>H.R. Department"
+     },
+     {"MessageType": "SelectionAdviseToCandidate", "SrNo": 1, "Mode": "sms",
+          "LineText": "Pleased to advise you have been selected as follows:"
+     }, 
+     {"MessageType": "SelectionAdviseToCandidate", "SrNo": 2, "Mode": "sms",
+          "LineText": "<tableofselectiondetailssms>"
+     },
+     {"MessageType": "SelectionAdviseToCandidate", "SrNo": 3, "Mode": "sms",
+          "LineText": "<br><br>Please visit us to review and sign your offer letter, and to initiate your joining formalities.<br><br>H.R. Department"
+     },
+     {"MessageType": "RejectionAdviseToCandidate", "SrNo": 1, "Mode": "mail",
+          "LineText": "Regret to advise you that your candidature for the above position has been rejected by the client."
+     },
+     {"MessageType": "RejectionAdviseToCandidate", "SrNo": 2, "Mode": "mail",
+          "LineText": "<br><br>More than your unsuitabiity for the position in general, rejection by the client reflects client's specific preferences for the position.  We shall continue with our efforts to look for alternate opportunities for you."
+     },
+     {"MessageType": "RejectionAdviseToCandidate", "SrNo": 1, "Mode": "sms",
+          "LineText": "Regret to inform yr candidature for above position has been rejected by the client.  More than yr unsuitabiity for the position in general, it reflects client's specific preferences for the position.  We shall continue with our efforts to look for alternate opportunities for you."
+     },
+     {"MessageType": "ProcessTransactionUpdateToCandidate", "SrNo": 1, "Mode": "email",
+          "LineText": "Please be advised of the following updates to your departure formalities."
+     }
+     
+     
+]

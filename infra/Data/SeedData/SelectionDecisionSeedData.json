@@ -1,0 +1,8 @@
+[
+     {"CVRefId": 1, "OrderItemId": 1, "CategoryId": 1, "CategoryName": "unknown", "OrderId": 1, "OrderNo": 1001, 
+          "ApplicatonNo": 10001, "CandidateId": 1, "CandidateName": "candidate name", "DecisionDate": "2020-01-05T10:00:00",
+          "SelectionStatusId": 1, "Remarks": "seeded data"}, 
+     {"cVRefId": 2, "OrderItemId": 1, "CategoryId": 1, "CategoryName": "unknown", "OrderId": 1, "OrderNo": 1001, 
+          "ApplicatonNo": 10002, "CandidateId": 1, "CandidateName": "candidate name 2", "DecisionDate": "2020-01-05T10:00:00",
+          "SelectionStatusId": 1, "Remarks": "seeded data"}
+]

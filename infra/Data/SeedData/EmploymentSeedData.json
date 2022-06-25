@@ -1,0 +1,12 @@
+[
+     {"CVRefId": 1, "OrderItemId": 1, "OrderId": 1, "OrderNo": 1001, "CustomerId": 1, "CustomerName": "unknown", 
+          "CategoryId": 1, "CategoryName": "unknown", "ApplicatonNo": 10001, "CandidateName": "candidate name",
+          "CompanyName": "XYZ ltd", "SelectionDecisionId": 1, "SelectedOn": "2020-01-01T10:10:00", "SalaryCurrency": "SAR", 
+          "Salary": 2500, "ContractPeriodInMonths": 24, "HousingProvidedFree": false, "HousingAllowance": 500, 
+          "FoodProvidedFree": false, "FoodAllowance": 0, "TransportProvidedFree": false, "TransportAllowance": 500}, 
+     {"CVRefId": 2, "OrderItemId": 1, "OrderId": 1, "OrderNo": 1001, "CustomerId": 1, "CustomerName": "unknown", 
+          "CategoryId": 1, "CategoryName": "unknown", "ApplicatonNo": 10002, "CandidateName": "candidate name XYZ",
+          "CompanyName": "XYZ ltd", "SelectionDecisionId": 1, "SelectedOn": "2020-01-02T10:10:00", "SalaryCurrency": "SAR", 
+          "Salary": 2600, "ContractPeriodInMonths": 24, "HousingProvidedFree": false, "HousingAllowance": 500, 
+          "FoodProvidedFree": false, "FoodAllowance": 0, "TransportProvidedFree": false, "TransportAllowance": 500}
+]

@@ -1,0 +1,11 @@
+[
+    {"Name": "Production Supervisor"},
+    {"Name": "Production Manager"},
+    {"Name": "QA Engineer"},
+    {"Name": "Laboratory Technician"},
+    {"Name": "QC Engineer"}, {"Name": "Driver-Light"},
+    {"Name": "QC Supervisor"}, {"Name": "Finance Manager"},
+    {"Name": "Operations Manager"}, {"Name": "Accounts Manager"},
+    {"Name": "Administration Manager"}, {"Name": "Accountant"},
+    {"Name": "Driver-Heavy"}, {"Name": "Cashier"}
+]
